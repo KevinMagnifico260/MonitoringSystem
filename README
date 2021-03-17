@@ -1,1 +1,13 @@
 This project is not finish yet but you can contribute to my project freely
+
+Before you download this projects
+you things you must a compiler.
+
+# Requirements
+
+* FreeBASIC Compilter
+  URL : https://sourceforge.net/projects/fbc/files/
+  
+* Emacs, Vim, etc. for Text Editors
+  VIM URL : https://www.vim.org/download.php
+  Emacs URL : https://www.gnu.org/software/emacs/download.html
